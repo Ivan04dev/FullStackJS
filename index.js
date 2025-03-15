@@ -1,4 +1,7 @@
+// Common JS
 const express = require("express");
+// ES6
+import express from "express";
 
 const app = express();
 
