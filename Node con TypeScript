@@ -27,3 +27,8 @@ npm i -D typescript ts-node
 El comando "dev": "src/index.ts"
 Solución a posible error "dev": "nodemon --exec ts-node src/index.ts"
 Eliminar "type": "module"
+
+-- Se instala la siguiente dependencia
+
+npm i --save-dev @types/express
+
