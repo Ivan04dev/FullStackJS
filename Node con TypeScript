@@ -23,5 +23,7 @@ npm i -D typescript ts-node
 -- Se crea la carpeta src y se mueve el archivo index cambiando la extensión a ts
 
 -- En el archivo package.json se realizan las siguientes modificaciones
+
 El comando "dev": "src/index.ts"
+Solución a posible error "dev": "nodemon --exec ts-node src/index.ts"
 Eliminar "type": "module"
