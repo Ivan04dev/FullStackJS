@@ -20,7 +20,7 @@ npm i -D typescript ts-node
     "include": ["src/**/*.ts"]
 }
 
--- Se crea la carpeta src y se muece el archivo index cambiando la extensión a ts
+-- Se crea la carpeta src y se mueve el archivo index cambiando la extensión a ts
 
 -- En el archivo package.json se realizan las siguientes modificaciones
 El comando "dev": "src/index.ts"
